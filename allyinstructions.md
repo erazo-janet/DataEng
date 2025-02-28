@@ -1,4 +1,16 @@
-install python for mac terminal here: https://www.python.org/downloads/macos/
+## python script:
+
+I saved the script here for you to download:
+https://github.com/erazo-janet/DataEng/blob/main/forally.py
+
+if you cant download it, you can copy and paste the code to a empty notepad, and save the name as:
+
+forally.py
+
+
+
+## install python for mac terminal here: 
+https://www.python.org/downloads/macos/
 you can select the first stablle installer:
 
 ![image](https://github.com/user-attachments/assets/685597dc-33ef-47d0-9303-cea85f451973)
@@ -12,6 +24,7 @@ python3
 
 If Python is not installed , you will see an error message stating Python cannot be found
 
+## Next steps
 if it is installed,  ypu can try running the python script by saving the python file to your documents folder (your data.json file and your python script should botyh be saved in the documents folder) , and navigate to yourdocuments folder by typing 
 
 cd Documents
@@ -21,7 +34,7 @@ cd Documents
 now you can see my path is looking at the documents folder.
 
 
-then to run the file, type:
+## then to run the file, type:
 
 python forally.py
 
@@ -40,5 +53,5 @@ then press enter!
 if it works, youll see the csv file automatically saved to your documents folder
 
 
-see u at disney next week!!
+# see u at disney soon!!
 
