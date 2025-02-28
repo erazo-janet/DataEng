@@ -6,7 +6,7 @@ https://github.com/erazo-janet/DataEng/blob/main/forally.py
 if you cant download it, you can copy and paste the code to a empty notepad, and save the name as:
 
 forally.py
-
+(you can save it under any name you want, just make sure .py is at the end. in my screenshot at the end u can see i named it importjson.py)
 
 
 ## install python for mac terminal here: 
