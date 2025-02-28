@@ -19,6 +19,7 @@ after open your terminal and type
 
 python3 
 
+then press enter
 ![image](https://github.com/user-attachments/assets/bdfe8838-e421-4138-8433-e624a4bed045)
 
 
