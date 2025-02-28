@@ -30,6 +30,8 @@ if it is installed,  ypu can try running the python script by saving the python 
 
 cd Documents
 
+then press enter
+
 ![image](https://github.com/user-attachments/assets/87eb6654-9375-464e-a62f-a1ecfb691e94)
 
 now you can see my path is looking at the documents folder.
